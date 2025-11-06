@@ -1,0 +1,1 @@
+See APP_EXPLAINER.md for deployment steps. Use Render for backend (root=backend) and Vercel for frontend (root=frontend). Fill .env files on platform dashboards.

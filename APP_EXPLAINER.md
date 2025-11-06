@@ -1,0 +1,1 @@
+AutoTask Deploy Ready - Backend (Render) and Frontend (Vercel). .env examples are intentionally blank. Fill in keys before enabling full features.

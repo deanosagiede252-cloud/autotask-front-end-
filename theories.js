@@ -1,0 +1,1 @@
+import express from 'express'; import { generateTheoryConcept } from '../modules/theories_engine.js'; const router = express.Router(); router.post('/generate', async (req,res)=>{ const p = req.body.prompt||''; const out = await generateTheoryConcept(p); res.json(out); }); export default router;
