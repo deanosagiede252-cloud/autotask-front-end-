@@ -1,1 +1,0 @@
-export async function generateTheoryConcept(prompt){ return { title:`Concept for ${prompt}`, summary:'High-level conceptual output (non-actionable)' }; }
