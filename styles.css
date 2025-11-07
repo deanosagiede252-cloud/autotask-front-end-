@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,body,#root{height:100%;}
+body{font-family:Inter,system-ui,-apple-system,'Segoe UI',Roboto;background:linear-gradient(180deg,#050816,#0b1230);color:white}
+.neon{ text-shadow:0 0 8px rgba(123,86,255,0.9); }
+.neon-border{ border:1px solid rgba(123,86,255,0.15); box-shadow:0 8px 30px rgba(12,10,40,0.6); }
+input,button{outline:none;border:0;}
